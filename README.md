@@ -1,9 +1,9 @@
 # secure-systems-development-assignment-3
 This assignment is based on getting real-time blockchain data from blockchain nodes.
 
-# There are two primary files for this assignment
-# bitcoin-network-data.js
-# bitcoin-data-through-api.js
+## There are two primary files for this assignment
+### bitcoin-network-data.js
+### bitcoin-data-through-api.js
 
 # File Description
 ## bitcoin-network-data.js
